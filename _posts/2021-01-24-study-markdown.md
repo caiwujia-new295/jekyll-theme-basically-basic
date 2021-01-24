@@ -8,6 +8,8 @@ image: assets/images/study/banner_md.jpeg
 ---
 
 ## 效果
+<!--more-->
+
 ## 一、标题
 
 ### 1. 使用 `#` 表示标题，其中 `#` 号必须在行首，例如：  
