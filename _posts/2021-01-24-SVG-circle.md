@@ -5,7 +5,7 @@ excerpt_separator: "<!--more-->"
 categories:
      - SVG笔记
 tags:
-     - Circie
+     - svg
 ---
 
 #### 一个红色和蓝色的圆形

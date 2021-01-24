@@ -5,7 +5,7 @@ excerpt_separator: "<!--more-->"
 categories:
      - SVG笔记
 tags:
-     - Moving
+     - svg
 ---
 
 ## 我们可以使用一些基础动画元素，实现单属性的动画过渡效果。
