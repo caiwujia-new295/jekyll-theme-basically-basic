@@ -7,6 +7,10 @@ categories:
 tags:
      - svg
 ---
+如何制作一些有趣的SVG图形！
+<!--more-->
+
+## 如何制作一些有趣的SVG图形！
 
 #### 一个红色和蓝色的圆形
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1">

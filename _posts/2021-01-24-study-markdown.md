@@ -6,9 +6,12 @@ categories:
      - 学习笔记
 image: assets/images/study/banner_md.jpeg
 ---
+如何学习markdown语法？
+<!--more-->
+
+## 如何学习markdown语法？
 
 ## 效果
-<!--more-->
 
 ## 一、标题
 

@@ -6,7 +6,10 @@ categories:
      - 学习笔记
 image: assets/images/study/banner_html.jpg
 ---
+如何学好HTML语法?
+<!--more-->
 
+## 如何学好HTML语法?
 # HTML语法大全
 ### 一、认识html
 #### 1. html：hypertext markup language，超文本标记语言，超链接（实现页面跳转）；
