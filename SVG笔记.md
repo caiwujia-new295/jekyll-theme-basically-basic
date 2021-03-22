@@ -5,7 +5,11 @@ permalink: /tags/SVG笔记/
 taxonomy: SVG笔记
 ---
 
-一个会动的svg图
+如何制作一个会动的爱心SVG图形！
+<!--more-->
+
+## 如何制作一个会动的爱心SVG图形！
+
 <svg class="heart-loader" xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="https://www.w3.org/2000/svg" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" viewBox="0 0 90 90" version="1.1">
     <g class="heart-loader__group">
         <path class="heart-loader__square" stroke-width="1" fill="none" d="M0,30 0,90 60,90 60,30z" />
