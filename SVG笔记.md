@@ -5,6 +5,7 @@ permalink: /tags/SVG笔记/
 taxonomy: SVG笔记
 ---
 
+<<<<<<< HEAD
 如何制作一个会动的爱心SVG图形！
 <!--more-->
 
@@ -18,3 +19,5 @@ taxonomy: SVG笔记
         <path class="heart-loader__heartPath" stroke-width="2" d="M60,30 a30,30 0 0,1 0,60 L0,90 0,30 a30,30 0 0,1 60,0" />
     </g>
 </svg>
+=======
+>>>>>>> parent of a65efa4... 一个会动的svg爱心图
